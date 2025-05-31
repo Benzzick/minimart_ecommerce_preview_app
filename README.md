@@ -1,16 +1,91 @@
-# minimart_ecommerce_preview_app
+# 🛒 Alphatwelve MiniMart eCommerce App
 
-A new Flutter project.
+An eCommerce app built with Flutter — includes product listing, cart management, and a polished UI for showcasing a shopping experience preview.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧱 Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+| Technology     | Usage                              |
+|----------------|------------------------------------|
+| **Flutter**    | UI framework for cross-platform apps |
+| **Dart**       | Primary programming language       |
+| **Riverpod**   | State management                   |
+| **Custom Widgets** | Modular and reusable UI components |
+| **Asset Images** | Product visuals & icons         |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Setup Instructions
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/Benzzick/minimart_ecommerce_preview_app.git
+cd minimart_ecommerce_preview_app
+```
+
+2. **Install Dependencies**
+
+```bash
+flutter pub get
+```
+
+3. **Run the App**
+
+```bash
+flutter run
+```
+
+> 💡 Make sure a device or emulator is connected.
+
+---
+
+## 🖼️ Screenshots
+
+| Home Screen | Cart Page | Details Page |
+|-------------|------------|-------------------|
+| ![Home](screenshots/home.jpeg) | ![Cart](screenshots/cart.jpeg) | ![Product Details](screenshots/product-details.jpeg) |
+
+> Screenshots are stored in the `/screenshots` folder..
+
+---
+
+## 📁 Folder Structure Overview
+
+```
+lib/
+├── core/
+│   └── global_providers/
+├── features/
+│   ├── cart/
+│   ├── dashboard/
+│   ├── favorites/
+│   ├── home/
+│   ├── product_details/
+│   └── profile/
+├── models/
+├── shared/
+│   ├── widgets/
+│   └── utils/
+```
+
+---
+
+## ✨ Features
+
+- 🧺 Add/remove/increase/decrease cart items
+- 🎨 Consistent color scheme and typography
+- 📦 Simple cart logic with total price calculation
+- 🪄 Smooth UX with custom buttons and styling
+- 📱 Fully responsive layout
+
+---
+
+## 📬 Contact / Contribute
+
+Thank you Alphatwelve for the challenge!
+
+**Author:** [Your Name](https://github.com/Benzzick/)
+
+---
