@@ -1,6 +1,6 @@
-# 🛒 Alphatwelve MiniMart eCommerce App
+# 🛒 Alphatwelve MiniMart eCommerce App By Jahbuikem Nwazue
 
-An eCommerce app built with Flutter — includes product listing, cart management, and a polished UI for showcasing a shopping experience preview.
+An eCommerce app built with Flutter — for the Alphatwelve challenge, it includes product listing, cart management, and a polished UI for showcasing a shopping experience preview.
 
 ---
 
@@ -82,10 +82,8 @@ lib/
 
 ---
 
-## 📬 Contact / Contribute
-
 Thank you Alphatwelve for the challenge!
 
-**Author:** [Your Name](https://github.com/Benzzick/)
+**Author:** [Jahbuikem Benaiah Nwazue](https://github.com/Benzzick/)
 
 ---
